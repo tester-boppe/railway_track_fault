@@ -70,7 +70,7 @@ def send_email(receiver_email, detection_time):
     Please take necessary action immediately.
 
     Best regards,  
-    **Defect Detection System**  
+    Defect Detection System  
     """
 
     msg = MIMEMultipart()

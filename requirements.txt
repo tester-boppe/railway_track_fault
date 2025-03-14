@@ -75,3 +75,25 @@ scikit-image
 
 # Additional dependencies
 matplotlib
+
+
+huggingface_hub
+
+# Image processing
+numpy
+opencv-python
+scikit-image
+matplotlib
+seaborn
+scipy
+
+# Web-related & API handling
+Flask
+requests
+
+# Email & validation
+email-validator
+python-dotenv
+
+# Miscellaneous
+pyyaml
